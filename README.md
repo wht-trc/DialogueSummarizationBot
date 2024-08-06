@@ -59,6 +59,6 @@
 
 ## Зависимости
 
-* aiogram - библиотека для работы с Telegram Bot API.
+* aiogram, telethon - библиотеки для работы с Telegram Bot API.
 * transformers - библиотека для работы с предобученными моделями от Hugging Face.
 * python-dotenv - для работы с переменными окружения.
