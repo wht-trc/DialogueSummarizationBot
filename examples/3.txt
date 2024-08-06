@@ -1,0 +1,10 @@
+A: Hi there! I heard you're a programmer. What kind of programming languages do you work with?
+B: Yes, I am. I work mostly with Java and C++.
+A: Wow, those are some pretty complex languages. How long did it take you to learn them?
+B: It took me a couple of years to really get a good grasp on them. But once you have a good foundation, it becomes much easier to learn other languages.
+A: That's good to know. I've been thinking about learning how to code, but I'm not sure where to start. What would you recommend for a beginner like me?
+B: For a beginner, I would suggest trying out Python. It's a relatively easy language to learn and has a great community of developers who can help you along the way. Plus, it's used in a lot of applications, so it's a great foundation.
+A: Oh, that sounds like a good idea. How would you recommend I get started with learning Python?
+B: There are a lot of great resources available, like online courses and tutorials. I would suggest finding a good beginner course and working your way through it. And don't be afraid to ask questions on forums or in developer communities. We all started somewhere and we're happy to help others learn.
+A: Thank you for your advice! I'm excited to get started and see where it takes me.
+B: You're welcome! Good luck on your programming journey.

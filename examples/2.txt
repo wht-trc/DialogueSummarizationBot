@@ -1,0 +1,9 @@
+A: Hey, have you heard about the new programming language that just came out?
+B: No, I haven't. What is it called?
+A: It's called Swift. It's a programming language specifically designed for Apple products like iPhone, iPad, and Mac.
+B: Interesting. I've been wanting to learn programming for a while now. Do you think Swift is a good language to start with?
+A: Absolutely. It's user-friendly and easy to learn. Plus, with the increasing popularity of Apple products, it's a valuable skill to have.
+B: That makes sense. But what if I wanted to learn a more universal language, one that I could use for different systems and applications?
+A: In that case, you could try Python. It's a great language for beginners and is used for a variety of applications like web development and data analysis.
+B: Ok, thanks for the advice. I think I'll start with Swift for now, and then maybe move on to Python.
+A: Sounds like a plan. Good luck with your programming journey!

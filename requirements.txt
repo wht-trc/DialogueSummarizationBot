@@ -1,0 +1,4 @@
+transformers==4.43.3
+telethon==1.36.0
+aiogram==3.8.0
+python-dotenv

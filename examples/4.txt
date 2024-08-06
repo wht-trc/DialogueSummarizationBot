@@ -1,0 +1,9 @@
+A: Hey, have you ever heard of HTML?
+B: Yeah, it's a markup language used for creating webpages, right?
+A: Exactly! Do you know how to use it?
+B: Not really, but I've been wanting to learn. Do you have any recommendations for someone just starting out?
+A: I definitely recommend checking out Codecademy's HTML course. It's a great way to get started and they have interactive exercises that make it easy to follow along.
+B: That sounds like a good idea. Is there anything else I should know about using HTML?
+A: One thing to keep in mind is that HTML is constantly evolving, so it's best to stay up to date on the latest versions and technologies. And it's also important to keep accessibility in mind when creating web content, so that everyone can use it, regardless of any disabilities they might have.
+B: Thanks for the advice. I'm excited to start learning HTML!
+A: You're welcome. I think you'll find it to be a valuable skill in today's highly digital world. Good luck!
